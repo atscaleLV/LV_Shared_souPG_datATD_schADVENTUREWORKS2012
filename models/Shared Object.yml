@@ -1,0 +1,6 @@
+unique_name: Shared Object
+object_type: model
+label: Shared Object
+metrics:
+  - unique_name: New Metric
+relationships: []

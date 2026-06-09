@@ -1,0 +1,6 @@
+unique_name: Product Dimension
+object_type: dimension
+label: Product Dimension
+hierarchies: []
+level_attributes: []
+type: standard
