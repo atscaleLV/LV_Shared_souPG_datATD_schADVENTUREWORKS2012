@@ -58,13 +58,13 @@ relationships:
       join_columns:
         - productcategorykey
     to:
-      level: Product Category
+      level: SHA Product Category
     type: snowflake
   - from:
       dataset: sha_dimproduct
       join_columns:
         - productsubcategorykey
     to:
-      level: Product Sub-Category
+      level: SHA Product Sub-Category
     type: snowflake
 type: standard

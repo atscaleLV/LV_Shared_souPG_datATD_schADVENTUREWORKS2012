@@ -3,4 +3,4 @@ object_type: metric
 label: New Metric
 calculation_method: count distinct
 column: productkey
-dataset: dimproduct
+dataset: sha_dimproduct
