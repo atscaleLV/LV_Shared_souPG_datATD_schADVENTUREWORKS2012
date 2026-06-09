@@ -12,5 +12,5 @@ columns:
     data_type: string
   - name: frenchproductcategoryname
     data_type: string
-connection_id: con_atscale_tutorial_data_adventureworks2012
+connection_id: con_sha_atscale_tutorial_data_adventureworks2012
 table: dimproductcategory
