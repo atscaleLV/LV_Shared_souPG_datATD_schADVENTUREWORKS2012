@@ -1,0 +1,6 @@
+unique_name: con_sha_souPG_datATD_schADVENTUREWORKS2012
+object_type: connection
+label: con_sha_souPG_datATD_schADVENTUREWORKS2012
+as_connection: Postgres
+database: atscale_tutorial_data
+schema: adventureworks2012
