@@ -1,6 +1,6 @@
 version: 1
-unique_name: zShared_Objects_LouisV
+unique_name: 1PRD_Shared_Objects_LouisV
 object_type: catalog
-label: zShared_Objects_LouisV
+label: 1PRD_Shared_Objects_LouisV
 aggressive_agg_promotion: false
 build_speculative_aggs: true
